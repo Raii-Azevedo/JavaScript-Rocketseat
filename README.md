@@ -9,6 +9,13 @@ Evolução do trilha JavaScript da Rocketseat
 - Object
 - Array
 
+## Variáveis
+- Conhecendo as Variáveis
+- Tipos Dinâmicos
+- Scope e var
+- Scope let e const
+- Nomeando Variáveis
+
 
 ## Author: Raíssa Azevedo
 
