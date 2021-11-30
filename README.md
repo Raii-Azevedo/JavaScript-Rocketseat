@@ -1,7 +1,7 @@
 # JavaScript-Rocketseat
 Evolução do trilha JavaScript da Rocketseat
 
-## Tipos de Dados
+## [Tipos de Dados](https://github.com/Raii-Azevedo/JavaScript-Rocketseat/tree/master/Tipos%20de%20Dados)
 - String
 - Number
 - Boolean
