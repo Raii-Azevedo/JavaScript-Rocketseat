@@ -9,7 +9,7 @@ Evolução da trilha JavaScript da Rocketseat
 - Object
 - Array
 
-## Variáveis
+## [Variáveis](https://github.com/Raii-Azevedo/JavaScript-Rocketseat/tree/master/Vari%C3%A1veis)
 - Conhecendo as Variáveis
 - Tipos Dinâmicos
 - Scope e var
