@@ -1,5 +1,5 @@
 # JavaScript-Rocketseat
-Evolução da trilha JavaScript da Rocketseat
+Evolução da trilha JavaScript e ECMAScript
 
 ## [Tipos de Dados](https://github.com/Raii-Azevedo/JavaScript-Rocketseat/tree/master/Tipos%20de%20Dados)
 - String
